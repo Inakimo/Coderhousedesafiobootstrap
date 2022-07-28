@@ -1,0 +1,32 @@
+.navbar-large{
+    font-size: larger;
+}
+
+.row-header{
+    padding-top: 200px;
+    font-size: x-large;
+    padding-bottom: 200px;
+}
+
+.col-texto{
+    text-align: center;
+    color: white;
+}
+
+.col-boton{
+    text-align: start;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.col-boton button{
+    background-color:transparent;
+    color: white;
+    border-radius: 50px;
+    padding: 15px;
+}
+
+.hero-unit{
+    background-image: url(imagenes/header-index.jpg);
+    background-position: center;
+}
