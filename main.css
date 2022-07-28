@@ -30,3 +30,78 @@
     background-image: url(imagenes/header-index.jpg);
     background-position: center;
 }
+
+.card-group{
+    margin-top: 20px;
+}
+
+.card-img-top{
+    height: 150px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card-text{
+    text-align: center;
+    font-weight: bold;
+}
+
+.card{
+    border: none;
+}
+
+@media screen and (max-width:700px){
+    .col-boton{
+        margin-right: auto;
+        margin-left: auto;
+        text-align: center;
+    }
+}
+
+.container-carousel{
+    margin-top: 20px;
+    height: 100%;
+    width: 100%;
+}
+
+.carousel-item{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.footer{
+    background-color: #202020;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.container-keyboardz{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #202020;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+
+.texto-keyboardz{
+    text-align: center;
+    font-weight: bold;
+    font-size: x-large;
+    margin-top: auto;
+    margin-bottom: auto;
+    color: white;
+}
+
+.imagen-keyboardz{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+}
+
+.navbar-oscuro{
+    background-color: #202020;
+}
